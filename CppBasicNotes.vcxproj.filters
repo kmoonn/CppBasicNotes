@@ -33,5 +33,8 @@
     <ClCompile Include="Hello.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="多态案例-计算机类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
